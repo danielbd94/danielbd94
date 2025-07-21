@@ -8,7 +8,7 @@ I'm a tech enthusiast and software engineer from Braude Academic College, passio
 
 - 🌱 I'm currently learning **PYTHON** and **C++**  
 - 📂 All of my projects are available [here](https://github.com/danielbd94?tab=repositories)  
-- 📫 How to reach me: [OhadLavi@gmail.com](mailto:danielbd2408@gmail.com)  
+- 📫 How to reach me: [danielbd2408@gmail.com](mailto:danielbd2408@gmail.com)  
 
 ---
 
